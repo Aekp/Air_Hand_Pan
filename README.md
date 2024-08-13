@@ -1,6 +1,6 @@
-# Sentiment Analysis and Light Control System
+# Hand-tracking based air Hand Pan Instrument 
 
-![Example Image](/Users/astridpedersen/Desktop/Embodied_Project/images/DALLE.png)
+![Example Image](images/DALLE.png)
 
 ## Overview
 
