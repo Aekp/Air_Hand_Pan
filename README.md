@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow these steps to install the project and its dependencies:
 
-1. Clone the repository: `git clone https://github.com/Aekp/MiniProject`
+1. Clone the repository: `git clone https://github.com/Aekp/Air_Hand_Pan/tree/main`
 2. Change into the project directory: `cd yourrepository`
 3. Install the required Python packages: `pip install -r requirements.txt`
 
